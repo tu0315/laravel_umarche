@@ -1,0 +1,38 @@
+【Laravel】マルチログイン機能を構築し本格的なECサイトをつくってみよう【Breeze/tailwindcss】 | Udemy https://www.udemy.com/course/laravel-multi-ec/
+
+composer create-project laravel/laravel umarche "8.*" --prefer-dist
+
+file:///Users/t.usuki/Downloads/01_breeze_component.pdf
+
+【Laravel】access deniedが表示されたときの対処法 | もんプロ～問題発見と解決のためのプログラミング〜 https://coinbaby8.com/access_denied.html
+
+mysql -u umarche -ppassword123
+
+2023/12/02
+2023/12/03
+L1〜14
+Mac初期化して環境再構築完了
+
+2023/12/04
+L15〜16
+ドキュメントをしっかり読む必要あるね〜〜〜
+https://readouble.com/laravel/8.x/ja/installation.html
+Q.MAMPで立ち上げたDBにアクセスするには？
+ローカルホストのDBへのアクセス。
+普通にRootパス無しでログインしただけだと表示されない。
+
+2023/12/05
+L17〜L19
+一気にガーッと進めていく！
+→思ったより進まず
+一人で実況しながら勉強するの楽しい
+
+2023/12/06
+動画を最初に見る
+→全体を把握
+→もう一度動画を見ながら実際に書く
+L19〜
+
+ViewからComponentを呼び出す過程・方法
+
+
